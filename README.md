@@ -21,7 +21,7 @@ Our approach focuses on **models that embed interpretability into their architec
 
 This research has been presented as a spotlight paper at the XAI4CV CVPR Workshop 2025: 
 
-- [ExaM: Unsupervised Concept-Based Representation Learning to Better Explain Models in Vision Tasks](https://openaccess.thecvf.com/content/CVPR2025W/XAI4CV/html/Heritier_ExaM_Unsupervised_Concept-Based_Representation_Learning_to_Better_Explain_Models_in_CVPRW_2025_paper.html) – CVPR Workshop , 2025 
+[ExaM: Unsupervised Concept-Based Representation Learning to Better Explain Models in Vision Tasks](https://openaccess.thecvf.com/content/CVPR2025W/XAI4CV/html/Heritier_ExaM_Unsupervised_Concept-Based_Representation_Learning_to_Better_Explain_Models_in_CVPRW_2025_paper.html)
 
 
 ## 🚀 Repository Content
