@@ -6,7 +6,7 @@ The goal is to bridge the gap between **state-of-the-art performance** and **hum
 
 Most modern deep learning models are powerful but often act as **black boxes**. 
 Interpretability is critical for:
-- **High-stakes applications** (physical security, healthcare, finance, safety)
+- **High-stakes applications** (physical security, healthcare, safety)
 - **Regulatory compliance** (e.g., GDPR, AI Act)
 - **Human trust and adoption**
 
