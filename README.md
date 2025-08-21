@@ -39,6 +39,6 @@ If you are working on similar topics and would like to discuss collaboration, fe
 
 ## 📫 Contact
 
-- [LinkedIn](link) 
-- [Google Scholar](link) 
+- [LinkedIn](https://www.linkedin.com/in/maguelonne-heritier-03ba9bb/)
+- [Google Scholar](https://scholar.google.com/citations?hl=fr&user=OBIkP1AAAAAJ)
 
