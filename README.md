@@ -1,4 +1,4 @@
-# XAI
+# Responsible AI - XAI
 This repository presents my research work on **interpretable machine learning models** — models that are *transparent by construction*, rather than relying solely on post-hoc explanations. 
 The goal is to bridge the gap between **state-of-the-art performance** and **human interpretability**, ensuring that models are not only accurate but also trustworthy and understandable.
 
