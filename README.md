@@ -14,6 +14,7 @@ Our approach focuses on **models that embed interpretability into their architec
 
 ## 🏗️ Approach
 
+<img width="1297" height="486" alt="image" src="https://github.com/user-attachments/assets/2cac05a5-be24-4634-bb29-8f4c51552a54" />
 
 
 
