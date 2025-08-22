@@ -18,7 +18,7 @@ Our approach focuses on **models that embed interpretability into their architec
 - Scalable to Multiple CV Tasks and Architectures (Classification, Re-ID)
 - Maintains Performance of the Equivalent Standard Architecture
 
-<img width="338" height="196" alt="image" src="https://github.com/user-attachments/assets/9b4a7e5d-559d-4c90-b273-56207c27437e" />
+<img width="440" height="255" alt="image" src="https://github.com/user-attachments/assets/9b4a7e5d-559d-4c90-b273-56207c27437e" />
 
 
 
